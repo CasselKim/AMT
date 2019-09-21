@@ -1,7 +1,12 @@
 # AMT
 Amatta application that reminds you not to loss your items
 
-<img src="LOGO.png" alt="image" style="zoom:75%;" />
+<img src="LOGO.png" alt="image" style="zoom:75%;" />  
+
+[Business Plan](Plan.hwp)  
+
+[Introduction Video](output.mp4)  
+
 
 ## Participant
 
