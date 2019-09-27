@@ -42,7 +42,7 @@ Amatta application that reminds you not to loss your items
 
 ## Project Term  
 
-2019.08.14 ~  
+2019.08.14 ~  2019.09.28
 
 .  
 
